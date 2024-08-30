@@ -15,9 +15,6 @@ let sessionidle = 0;
 let realattemp =0 
 
 
-// const TelegramBot = require('node-telegram-bot-api');
-// const token = '6633928323:AAF9oLutiqoTEZugBOmgkebd2zeKPvL57c8';
-// const bot = new TelegramBot(token);
 
 
 // Function to fetch and save proxies from the provided URL
